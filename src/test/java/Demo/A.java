@@ -30,7 +30,7 @@ public class A {
 		
 		driver.get("https://www.hyrtutorials.com/p/waits-demo.html");
 		
-		Thread.sleep(3000);
+		Thread.sleep(1500);
 		
 		driver.findElement(By.xpath("//button[@id='btn1']")).click();
 		
