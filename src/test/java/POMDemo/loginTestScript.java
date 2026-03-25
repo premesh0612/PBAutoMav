@@ -46,7 +46,7 @@ public void invalidLoginTest() {
 		
 	LoginPage lp = new LoginPage(driver);                    
 	lp.SetEmail("student");
-	lp.SetPasaword("Password1234");
+	lp.SetPasaword("Password12345");
 	lp.ClickSignIn();
 
 	
