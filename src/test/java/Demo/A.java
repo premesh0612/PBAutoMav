@@ -26,11 +26,11 @@ public class A {
 		
 		WebDriver driver = new ChromeDriver();
 
-		driver.get("https://chatgpt.com/c/69c37a2d-df68-8324-b0bb-90e9d92bdc4b");
+		driver.manage().window().maximize();
 		
-		//driver.get("https://www.hyrtutorials.com/p/waits-demo.html");
+		driver.get("https://www.hyrtutorials.com/p/waits-demo.html");
 		
-		
+		Thread.sleep(5000);
 		
 		driver.findElement(By.xpath("//button[@id='btn1']")).click();
 		
@@ -42,7 +42,7 @@ public class A {
 		element.sendKeys("kanchan patke");
 		
 		
-		
+		Thread.sleep(5000);
 		System.out.println("Done"); 
 		
 		
