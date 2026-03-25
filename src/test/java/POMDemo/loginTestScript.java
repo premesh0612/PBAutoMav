@@ -20,7 +20,7 @@ public class loginTestScript {
 		driver.get("https://practicetestautomation.com/practice-test-login/");
 	}
 	
-@Test (priority=1)
+@Test (priority=2)
 	
 	public void validLoginTest() {
 			
@@ -40,7 +40,7 @@ public class loginTestScript {
 	        lp.ClickonLogout();
 	}
 	
-@Test (priority=2)
+@Test (priority=1)
 
 public void invalidLoginTest() {
 		

@@ -30,7 +30,7 @@ public class A {
 		
 		driver.get("https://www.hyrtutorials.com/p/waits-demo.html");
 		
-		Thread.sleep(1500);
+		Thread.sleep(5000);
 		
 		driver.findElement(By.xpath("//button[@id='btn1']")).click();
 		
@@ -42,7 +42,7 @@ public class A {
 		element.sendKeys("kanchan patke");
 		
 		
-		
+		Thread.sleep(5000);
 		System.out.println("Done"); 
 		
 		
