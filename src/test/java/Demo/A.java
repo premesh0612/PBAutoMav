@@ -38,7 +38,7 @@ public class A {
 		WebElement element = wait.until(
 		        ExpectedConditions.elementToBeClickable(By.xpath("(//input[@id='txt1'])[1]"))
 		);
-		element.sendKeys("Premesh bhatkar");
+		element.sendKeys("kanchan patke");
 		
 		
 		
