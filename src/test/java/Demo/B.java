@@ -14,6 +14,7 @@ public class B {
 public static void main(String[] args) throws InterruptedException, AWTException {
 		
 		
+		System.out.println(" Don't touch target file and source file fakat .java file"); 
 		System.out.println(" Done"); 
 		
 }	
