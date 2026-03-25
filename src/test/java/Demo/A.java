@@ -30,7 +30,7 @@ public class A {
 		
 		driver.get("https://www.hyrtutorials.com/p/waits-demo.html");
 		
-		Thread.sleep(5000);
+		Thread.sleep(1000);
 		
 		driver.findElement(By.xpath("//button[@id='btn1']")).click();
 		
@@ -39,10 +39,10 @@ public class A {
 		WebElement element = wait.until(
 		        ExpectedConditions.elementToBeClickable(By.xpath("(//input[@id='txt1'])[1]"))
 		);
-		element.sendKeys("kanchan patke");
+		element.sendKeys("kanchan bhatkar");
 		
 		
-		Thread.sleep(5000);
+		Thread.sleep(1000);
 		System.out.println("Done"); 
 		
 		

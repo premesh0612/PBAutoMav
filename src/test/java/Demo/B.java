@@ -14,7 +14,7 @@ public class B {
 public static void main(String[] args) throws InterruptedException, AWTException {
 		
 		
-		System.out.println("kanchan Done task"); 
+		System.out.println(" Done"); 
 		
 }	
 		
