@@ -15,9 +15,9 @@ public class B {
 	public void addMethod() {
 
 
-	  int a=5;
-	  
-	  System.out.println(a);
+		int a=20;
+		  
+		  System.out.println("the value od a is" +a);
 	    
 
 	}
