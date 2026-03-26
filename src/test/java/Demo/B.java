@@ -13,7 +13,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class B {
 
 	public void newLoginTest() {
-	    System.out.println("Login test in premesh_06 branch");
+	    
+	    System.out.println("testing done by kanchan");
 	}
 		
 }
