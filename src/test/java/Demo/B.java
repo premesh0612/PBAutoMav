@@ -15,7 +15,7 @@ public class B {
 	public void addMethod() {
 
 
-	  int a=10;
+	  int a=5;
 	  
 	  System.out.println(a);
 	    
