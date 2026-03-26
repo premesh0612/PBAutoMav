@@ -13,8 +13,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class B {
 
 	public void newLoginTest() {
-	    
-	    System.out.println("testing done by kanchan");
+
+
+	    System.out.println("New changes done by hemant");
+
 	}
 
 		
