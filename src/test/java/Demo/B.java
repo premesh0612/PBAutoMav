@@ -11,13 +11,9 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class B {
-public static void main(String[] args) throws InterruptedException, AWTException {
-		
-		
-		System.out.println(" Don't touch target file and source file fakat .java file"); 
-		System.out.println(" Done"); 
-		
-}	
-		
+
+	public void newLoginTest() {
+	    System.out.println("Login test in premesh_06 branch");
+	}
 		
 }
