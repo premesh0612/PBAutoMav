@@ -6,3 +6,4 @@ public class C {
 		System.out.println("Hello world");
 	}
 }
+
