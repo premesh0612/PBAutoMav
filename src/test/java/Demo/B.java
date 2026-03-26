@@ -12,10 +12,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class B {
 
-	public void newLoginTest() {
+	public void addMethod() {
 
 
-	    System.out.println("my nameis khan");
+	  int a=10;
+	  
+	  System.out.println(a);
 	    
 
 	}
