@@ -15,9 +15,8 @@ public class B {
 	public void newLoginTest() {
 
 
-	    System.out.println("New changes done by premesh");
-	    System.out.println("New changes done by kanchan");
-	    System.out.println("New changes done by bhatkar");
+	    System.out.println("my nameis khan");
+	    
 
 	}
 
