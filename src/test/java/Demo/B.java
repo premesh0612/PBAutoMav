@@ -1,26 +1,16 @@
 package Demo;
 
-import java.awt.AWTException;
-import java.time.Duration;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
-
 public class B {
 
-	public void addMethod() {
-
-
-		int a=20;
-		  
-		  System.out.println("the value od a is" +a);
-	    
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
 	}
 
+	public static void addNumber() {
+		int a=1;
+		int b=2;
+		System.out.println(b+a);
 		
+	}
 }
