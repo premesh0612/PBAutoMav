@@ -8,8 +8,12 @@ public class B {
 	}
 
 	public static void addNumber() {
+
 		int a=3;
 		int b=4;
 		System.out.println(b-a);
+
+		
+
 	}
 }
