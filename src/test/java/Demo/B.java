@@ -12,5 +12,6 @@ public class B {
 
         System.out.println(b - a);
         System.out.println("add two number validation successfully");
+        System.out.println("add three number validation successfully");
     }
 }
